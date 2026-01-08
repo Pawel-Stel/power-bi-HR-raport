@@ -14,8 +14,9 @@ The project demonstrates my ability to **design a star schema model, prepare dat
 * Reused rating and satisfaction dimensions across multiple measures to keep the model clean and scalable
 * Optimized relationships and model structure for clarity and performance
 
-(Model diagram included in the repository)
+(Model diagram)
 
+![Data & Modeling](star_schema.png)
 ---
 
 ## Data Preparation
@@ -32,6 +33,8 @@ The project demonstrates my ability to **design a star schema model, prepare dat
 
 * Workforce snapshot and key HR KPIs
 * Headcount and attrition insights by organizational structure
+  
+![Report Structure](HR_pbi_Overview.png)
 
 **Performance Tracker**
 
@@ -39,10 +42,14 @@ The project demonstrates my ability to **design a star schema model, prepare dat
 * Review timelines and satisfaction trends
 * Manager and relationship ratings in a single analytical view
 
+![Report Structure](HR_pbi_performance_tracker.png)
+
 **Attrition Analysis**
 
 * Deep-dive into employee turnover drivers
 * Attrition breakdowns by organizational, demographic and behavioral factors
+
+![Report Structure](HR_pbi_Attrition.png)
 
 ---
 
