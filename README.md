@@ -64,7 +64,3 @@ The project demonstrates my ability to **design a star schema model, prepare dat
 
 ---
 
-Jeśli chcesz, następnym krokiem możemy:
-
-* dopasować **krótszą wersję pod CV / LinkedIn**
-* albo zrobić **2–3 zdaniowy opis „hook” pod rekrutera BI**
